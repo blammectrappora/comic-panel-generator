@@ -84,3 +84,13 @@ If no prompt is provided, the following default is used:
 > comic book panel illustration, bold ink outlines, dynamic composition, manga style, expressive characters, cel shading, dramatic lighting, professional comic art, sequential storytelling panel
 
 This skill requires a Neta API token (free trial available at https://www.neta.art/open/).
+
+## Example Output
+
+```bash
+node comicpanelgenerator.js "comic book panel illustration, bold ink outlines, dynamic composition, manga style, expressive characters, cel shading, dramatic lighting, professional comic art, sequential storytelling panel"
+```
+
+![Example output](https://oss.talesofai.cn/picture/ae23520d-d238-44ac-8383-1af263580e26.webp)
+
+> Prompt: *"comic book panel illustration, bold ink outlines, dynamic composition, manga style, expressive characters, cel shading, dramatic lighting, professional comic art, sequential storytelling panel"*
